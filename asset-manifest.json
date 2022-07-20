@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gtm-exercises/static/css/main.73f5ba94.css",
+    "main.js": "/gtm-exercises/static/js/main.c7e88f14.js",
+    "static/media/banner.png": "/gtm-exercises/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/gtm-exercises/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/gtm-exercises/index.html",
+    "main.73f5ba94.css.map": "/gtm-exercises/static/css/main.73f5ba94.css.map",
+    "main.c7e88f14.js.map": "/gtm-exercises/static/js/main.c7e88f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f5ba94.css",
+    "static/js/main.c7e88f14.js"
+  ]
+}
